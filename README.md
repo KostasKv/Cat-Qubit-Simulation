@@ -1,2 +1,5 @@
 # Cat-Qubit-Simulation
-Simulating Alice &amp; Bob’s cat qubit at the circuit level and using an effective Hamiltonian, based on their MIT iQuHACK 2025 challenge.
+
+Simulating the time evolution of a dissipatively stabilised cat qubit, based on Alice &amp; Bob’s MIT iQuHACK 2025 challenge.
+
+![](media/cat_qubit_wigner.gif)
